@@ -1,4 +1,5 @@
 [![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)](https://machangdoniel.github.io/)
+
 <h1 align="center">Hi 👋, I'm Doniel Tripura</h1>
 <h3 align="center">A passionate Programmer, Problem solver & Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/doniel-tripura-7a82281b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doniel-tripura-7a82281b9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/doniel-tripura-7a82281b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doniel-tripura-7a82281b9/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
